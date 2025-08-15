@@ -55,14 +55,4 @@ Click here to view my resume website
 
 
 
-📜 License
-
-This project is open-source and available under the MIT License.
-
-
----
-
-If you want, I can also make you a shorter, minimal README that’s more like a quick GitHub showcase rather than a full documentation. That way, it looks cleaner for a portfolio.
-
-Do you want me to prepare that shorter version as well?
 
